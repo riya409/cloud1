@@ -4,7 +4,7 @@ menu = {
     "Burger": 5.49,
     "Pasta": 7.99,
     "Salad": 4.49,
-    "Soda": 1.99,
+    "Soda": 2.33,
 }
 
 # Function to display the menu
